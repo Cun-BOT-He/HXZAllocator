@@ -1,0 +1,7 @@
+﻿  HxzAllocator.cpp
+c:\personalfiles\projects\c++\finalproject\hxzallocator\hxzallocator\hxzalloc.h(158): warning C4018: “<”: 有符号/无符号不匹配
+c:\personalfiles\projects\c++\finalproject\hxzallocator\hxzallocator\hxzallocator.cpp(59): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  All 344 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HxzAllocator.vcxproj -> C:\PersonalFiles\Projects\C++\FinalProject\HxzAllocator\Release\HxzAllocator.exe
